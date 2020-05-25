@@ -1,0 +1,13 @@
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Logica.exe
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Logica.deps.json
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Logica.runtimeconfig.json
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Logica.runtimeconfig.dev.json
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.csprojAssemblyReference.cache
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.dll
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\VT\Documents\aceleradev-codenation-c#\Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Logica.genruntimeconfig.cache
